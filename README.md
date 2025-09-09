@@ -5,6 +5,8 @@ UniversalAdapter is a single abstract adapter that implements common AWT/Swing l
 
 Author: **Vaibhav Bodade (UAdap)**  
 GitHub: [vaibhavdb14](https://github.com/vaibhavdb14)  
+In colabration with : **Vivek Jadhav**
+GitHub: [VivekJadhav07](https://github.com/VivekJadhav07)
 
 ---
 
